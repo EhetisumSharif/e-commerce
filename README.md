@@ -16,6 +16,9 @@
 ## 📌 About The Project
 This project is developed as part of the **Web Engineering** course (CSE 3391) under the Department of Computer Science and Engineering at **IUBAT**. The platform is designed to provide a seamless online shopping experience for customers while offering an easy-to-use management interface for administrators. It specializes in dairy and everyday retail products, featuring user account creation, product browsing, cart and wishlist management, and secure payment processing.
 
+For detailed documentation, system architecture, UML diagrams, and testing results, you can check the complete project report here:
+👉 **[View Project Report PDF](https://github.com/EhetisumSharif/e-commerce/blob/main/E-commerce%20project%20reports.pdf)**
+
 ---
 
 ## ✨ Key Features & Functionalities
